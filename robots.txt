@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://realanons.github.io/sitemap.xml
