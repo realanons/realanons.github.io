@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 13 Jul 2022 01:02:41 +0800</lastBuildDate><atom:link href="https://realanons.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo博客搭建指北</title>
-      <link>https://realanons.github.io/post/hello-world/</link>
+      <link>https://realanons.github.io/post/hugo/</link>
       <pubDate>Wed, 13 Jul 2022 01:02:41 +0800</pubDate>
       
-      <guid>https://realanons.github.io/post/hello-world/</guid>
+      <guid>https://realanons.github.io/post/hugo/</guid>
       <description>起因 偶然逛到ouuan大佬的博客，觉得非常简洁美观，就直接拿来用了，采用的是 Hugo + Even-theme + GitHub Actions，参考资料如下: https://ouuan.github.io/post/from-hexo-to-hugo/ 搭建过程 Step 1 阅读指南 首</description>
     </item>
     
